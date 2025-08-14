@@ -1,0 +1,101 @@
+Region,Country,City/Area,Landmark,Category,Google Maps link
+Europe,France,Paris,Eiffel Tower,Tower,https://www.google.com/maps/search/?api=1&query=Eiffel+Tower%2C+Paris%2C+France
+Europe,France,Paris,Arc de Triomphe,Monument,https://www.google.com/maps/search/?api=1&query=Arc+de+Triomphe%2C+Paris%2C+France
+Europe,France,Paris,Louvre Pyramid,Museum/Modern,https://www.google.com/maps/search/?api=1&query=Louvre+Pyramid%2C+Paris%2C+France
+Europe,France,Normandy,Mont Saint-Michel,Abbey/Island,https://www.google.com/maps/search/?api=1&query=Mont+Saint-Michel%2C+Normandy%2C+France
+Europe,Italy,Rome,Colosseum,Amphitheatre,https://www.google.com/maps/search/?api=1&query=Colosseum%2C+Rome%2C+Italy
+Europe,Vatican City,Vatican City,St Peters Basilica,Cathedral,https://www.google.com/maps/search/?api=1&query=St+Peters+Basilica%2C+Vatican+City%2C+Vatican+City
+Europe,Italy,Rome,Trevi Fountain,Fountain,https://www.google.com/maps/search/?api=1&query=Trevi+Fountain%2C+Rome%2C+Italy
+Europe,Italy,Pisa,Leaning Tower of Pisa,Tower,https://www.google.com/maps/search/?api=1&query=Leaning+Tower+of+Pisa%2C+Pisa%2C+Italy
+Europe,Italy,Florence,Florence Cathedral (Duomo),Cathedral,https://www.google.com/maps/search/?api=1&query=Florence+Cathedral+Duomo%2C+Florence%2C+Italy
+Europe,Italy,Venice,Rialto Bridge,Bridge,https://www.google.com/maps/search/?api=1&query=Rialto+Bridge%2C+Venice%2C+Italy
+Europe,Spain,Barcelona,Sagrada Familia,Basilica,https://www.google.com/maps/search/?api=1&query=Sagrada+Familia%2C+Barcelona%2C+Spain
+Europe,Spain,Barcelona,Park Guell,Park/Modernist,https://www.google.com/maps/search/?api=1&query=Park+Guell%2C+Barcelona%2C+Spain
+Europe,Spain,Granada,Alhambra,Palace/Fortress,https://www.google.com/maps/search/?api=1&query=Alhambra%2C+Granada%2C+Spain
+Europe,Spain,Cordoba,Mezquita Cathedral,Mosque–Cathedral,https://www.google.com/maps/search/?api=1&query=Mezquita+Cathedral%2C+Cordoba%2C+Spain
+Europe,United Kingdom,London,Tower Bridge,Bridge,https://www.google.com/maps/search/?api=1&query=Tower+Bridge%2C+London%2C+United+Kingdom
+Europe,United Kingdom,London,Big Ben (Elizabeth Tower),Clock Tower,https://www.google.com/maps/search/?api=1&query=Big+Ben+Elizabeth+Tower%2C+London%2C+United+Kingdom
+Europe,United Kingdom,Wiltshire,Stonehenge,Megaliths,https://www.google.com/maps/search/?api=1&query=Stonehenge%2C+Wiltshire%2C+United+Kingdom
+Europe,United Kingdom,Edinburgh,Edinburgh Castle,Castle,https://www.google.com/maps/search/?api=1&query=Edinburgh+Castle%2C+Edinburgh%2C+United+Kingdom
+Europe,Greece,Athens,Acropolis (Parthenon),Temple Complex,https://www.google.com/maps/search/?api=1&query=Acropolis+Parthenon%2C+Athens%2C+Greece
+Europe,Greece,Santorini,Santorini (Oia),Village/Scenic,https://www.google.com/maps/search/?api=1&query=Oia%2C+Santorini%2C+Greece
+Europe,Germany,Schwangau,Neuschwanstein Castle,Castle,https://www.google.com/maps/search/?api=1&query=Neuschwanstein+Castle%2C+Schwangau%2C+Germany
+Europe,Germany,Berlin,Brandenburg Gate,Monument,https://www.google.com/maps/search/?api=1&query=Brandenburg+Gate%2C+Berlin%2C+Germany
+Europe,Germany,Cologne,Cologne Cathedral,Cathedral,https://www.google.com/maps/search/?api=1&query=Cologne+Cathedral%2C+Cologne%2C+Germany
+Europe,Czechia,Prague,Charles Bridge,Bridge,https://www.google.com/maps/search/?api=1&query=Charles+Bridge%2C+Prague%2C+Czechia
+Europe,Czechia,Prague,Old Town Square,Square,https://www.google.com/maps/search/?api=1&query=Old+Town+Square%2C+Prague%2C+Czechia
+Europe,Hungary,Budapest,Hungarian Parliament Building,Parliament,https://www.google.com/maps/search/?api=1&query=Hungarian+Parliament+Building%2C+Budapest%2C+Hungary
+Europe,Hungary,Budapest,Fishermans Bastion,Terrace,https://www.google.com/maps/search/?api=1&query=Fishermans+Bastion%2C+Budapest%2C+Hungary
+Europe,Austria,Vienna,Schonbrunn Palace,Palace,https://www.google.com/maps/search/?api=1&query=Schonbrunn+Palace%2C+Vienna%2C+Austria
+Europe,Austria,Hallstatt,Hallstatt Village,Village/Scenic,https://www.google.com/maps/search/?api=1&query=Hallstatt+Village%2C+Hallstatt%2C+Austria
+Europe,Croatia,Dubrovnik,Dubrovnik Old Town,Fortified Town,https://www.google.com/maps/search/?api=1&query=Dubrovnik+Old+Town%2C+Dubrovnik%2C+Croatia
+Asia,India,Agra,Taj Mahal,Mausoleum,https://www.google.com/maps/search/?api=1&query=Taj+Mahal%2C+Agra%2C+India
+Asia,India,Delhi,Qutub Minar,Minaret,https://www.google.com/maps/search/?api=1&query=Qutub+Minar%2C+Delhi%2C+India
+Asia,India,Delhi,Red Fort,Fort,https://www.google.com/maps/search/?api=1&query=Red+Fort%2C+Delhi%2C+India
+Asia,India,Jaipur,Hawa Mahal,Palace Facade,https://www.google.com/maps/search/?api=1&query=Hawa+Mahal%2C+Jaipur%2C+India
+Asia,India,Amer,Amber Fort,Fort,https://www.google.com/maps/search/?api=1&query=Amber+Fort%2C+Amer%2C+India
+Asia,India,Mumbai,Gateway of India,Monument,https://www.google.com/maps/search/?api=1&query=Gateway+of+India%2C+Mumbai%2C+India
+Asia,India,Amritsar,Golden Temple (Harmandir Sahib),Temple,https://www.google.com/maps/search/?api=1&query=Golden+Temple%2C+Amritsar%2C+India
+Asia,India,Madurai,Meenakshi Amman Temple,Temple,https://www.google.com/maps/search/?api=1&query=Meenakshi+Amman+Temple%2C+Madurai%2C+India
+Asia,Cambodia,Siem Reap,Angkor Wat,Temple Complex,https://www.google.com/maps/search/?api=1&query=Angkor+Wat%2C+Siem+Reap%2C+Cambodia
+Asia,Cambodia,Angkor Thom,Bayon Temple,Temple,https://www.google.com/maps/search/?api=1&query=Bayon+Temple%2C+Angkor+Thom%2C+Cambodia
+Asia,Myanmar,Yangon,Shwedagon Pagoda,Pagoda,https://www.google.com/maps/search/?api=1&query=Shwedagon+Pagoda%2C+Yangon%2C+Myanmar
+Asia,Myanmar,Bagan,Ananda Temple,Temple,https://www.google.com/maps/search/?api=1&query=Ananda+Temple%2C+Bagan%2C+Myanmar
+Asia,Indonesia,Magelang,Borobudur,Temple,https://www.google.com/maps/search/?api=1&query=Borobudur%2C+Magelang%2C+Indonesia
+Asia,Indonesia,Yogyakarta,Prambanan,Temple,https://www.google.com/maps/search/?api=1&query=Prambanan%2C+Yogyakarta%2C+Indonesia
+Asia,Malaysia,Kuala Lumpur,Petronas Towers,Skyscraper,https://www.google.com/maps/search/?api=1&query=Petronas+Towers%2C+Kuala+Lumpur%2C+Malaysia
+Asia,Singapore,Singapore,Marina Bay Sands,Skyscraper,https://www.google.com/maps/search/?api=1&query=Marina+Bay+Sands%2C+Singapore%2C+Singapore
+Asia,Singapore,Singapore,Merlion Park,Monument,https://www.google.com/maps/search/?api=1&query=Merlion+Park%2C+Singapore%2C+Singapore
+Asia,Vietnam,Ha Long,Ha Long Bay,Natural Wonder,https://www.google.com/maps/search/?api=1&query=Ha+Long+Bay%2C+Ha+Long%2C+Vietnam
+Asia,Vietnam,Hoi An,Hoi An Ancient Town,Historic Town,https://www.google.com/maps/search/?api=1&query=Hoi+An+Ancient+Town%2C+Hoi+An%2C+Vietnam
+Asia,China,Beijing,Great Wall (Badaling),Ancient Wall,https://www.google.com/maps/search/?api=1&query=Great+Wall+Badaling%2C+Beijing%2C+China
+Asia,China,Beijing,Forbidden City,Palace Museum,https://www.google.com/maps/search/?api=1&query=Forbidden+City%2C+Beijing%2C+China
+Asia,China,Beijing,Temple of Heaven,Temple,https://www.google.com/maps/search/?api=1&query=Temple+of+Heaven%2C+Beijing%2C+China
+Asia,China,Xian,Terracotta Army (Emperor Qinshihuang),Archaeological Site,https://www.google.com/maps/search/?api=1&query=Terracotta+Army%2C+Xian%2C+China
+Asia,Japan,Fujikawaguchiko,Mount Fuji (Lake Kawaguchi View),Mountain,https://www.google.com/maps/search/?api=1&query=Mount+Fuji+Lake+Kawaguchi%2C+Fujikawaguchiko%2C+Japan
+Asia,Japan,Kyoto,Fushimi Inari Taisha,Shrine,https://www.google.com/maps/search/?api=1&query=Fushimi+Inari+Taisha%2C+Kyoto%2C+Japan
+Asia,Japan,Kyoto,Kiyomizu-dera,Temple,https://www.google.com/maps/search/?api=1&query=Kiyomizu-dera%2C+Kyoto%2C+Japan
+Asia,Japan,Hatsukaichi,Itsukushima Shrine (Torii),Shrine,https://www.google.com/maps/search/?api=1&query=Itsukushima+Shrine+Torii%2C+Hatsukaichi%2C+Japan
+Asia,Japan,Himeji,Himeji Castle,Castle,https://www.google.com/maps/search/?api=1&query=Himeji+Castle%2C+Himeji%2C+Japan
+Asia,United Arab Emirates,Dubai,Burj Khalifa,Skyscraper,https://www.google.com/maps/search/?api=1&query=Burj+Khalifa%2C+Dubai%2C+United+Arab+Emirates
+Asia,United Arab Emirates,Abu Dhabi,Sheikh Zayed Grand Mosque,Mosque,https://www.google.com/maps/search/?api=1&query=Sheikh+Zayed+Grand+Mosque%2C+Abu+Dhabi%2C+United+Arab+Emirates
+Americas,United States,New York,Statue of Liberty,Monument,https://www.google.com/maps/search/?api=1&query=Statue+of+Liberty%2C+New+York%2C+United+States
+Americas,United States,New York,Times Square,Square/Urban,https://www.google.com/maps/search/?api=1&query=Times+Square%2C+New+York%2C+United+States
+Americas,United States,New York,Brooklyn Bridge,Bridge,https://www.google.com/maps/search/?api=1&query=Brooklyn+Bridge%2C+New+York%2C+United+States
+Americas,United States,New York,Empire State Building,Skyscraper,https://www.google.com/maps/search/?api=1&query=Empire+State+Building%2C+New+York%2C+United+States
+Americas,United States,San Francisco,Golden Gate Bridge,Bridge,https://www.google.com/maps/search/?api=1&query=Golden+Gate+Bridge%2C+San+Francisco%2C+United+States
+Americas,United States,San Francisco,Painted Ladies (Alamo Square),Victorian Houses,https://www.google.com/maps/search/?api=1&query=Painted+Ladies+Alamo+Square%2C+San+Francisco%2C+United+States
+Americas,United States,San Francisco,Alcatraz Island,Historic Site,https://www.google.com/maps/search/?api=1&query=Alcatraz+Island%2C+San+Francisco%2C+United+States
+Americas,United States,Grand Canyon Village,Grand Canyon South Rim,Natural Wonder,https://www.google.com/maps/search/?api=1&query=Grand+Canyon+South+Rim%2C+Grand+Canyon+Village%2C+United+States
+Americas,United States,Page,Antelope Canyon,Slot Canyon,https://www.google.com/maps/search/?api=1&query=Antelope+Canyon%2C+Page%2C+United+States
+Americas,United States,Oljato-Monument Valley,Monument Valley,Desert Landscape,https://www.google.com/maps/search/?api=1&query=Monument+Valley%2C+Oljato-Monument+Valley%2C+United+States
+Americas,United States,Las Vegas,Las Vegas Strip,Boulevard,https://www.google.com/maps/search/?api=1&query=Las+Vegas+Strip%2C+Las+Vegas%2C+United+States
+Americas,United States,Boulder City,Hoover Dam,Engineering,https://www.google.com/maps/search/?api=1&query=Hoover+Dam%2C+Boulder+City%2C+United+States
+Americas,United States,Keystone,Mount Rushmore,Monument,https://www.google.com/maps/search/?api=1&query=Mount+Rushmore%2C+Keystone%2C+United+States
+Americas,United States,Yellowstone National Park,Old Faithful Geyser,Geyser,https://www.google.com/maps/search/?api=1&query=Old+Faithful+Geyser%2C+Yellowstone+National+Park%2C+United+States
+Americas,United States,Arches National Park,Delicate Arch (Viewpoint),Natural Arch,https://www.google.com/maps/search/?api=1&query=Delicate+Arch+Viewpoint%2C+Arches+National+Park%2C+United+States
+Americas,Mexico,Tinum,Chichen Itza,Archaeological Site,https://www.google.com/maps/search/?api=1&query=Chichen+Itza%2C+Tinum%2C+Mexico
+Americas,Mexico,Teotihuacan,Teotihuacan (Pyramid of the Sun),Archaeological Site,https://www.google.com/maps/search/?api=1&query=Teotihuacan+Pyramid+of+the+Sun%2C+Teotihuacan%2C+Mexico
+Americas,Mexico,Tulum,Tulum Ruins,Archaeological Site,https://www.google.com/maps/search/?api=1&query=Tulum+Ruins%2C+Tulum%2C+Mexico
+Americas,Peru,Aguas Calientes,Machu Picchu,Archaeological Site,https://www.google.com/maps/search/?api=1&query=Machu+Picchu%2C+Aguas+Calientes%2C+Peru
+Americas,Brazil,Rio de Janeiro,Christ the Redeemer,Monument,https://www.google.com/maps/search/?api=1&query=Christ+the+Redeemer%2C+Rio+de+Janeiro%2C+Brazil
+Americas,Argentina,Puerto Iguazu,Iguazu Falls (Garganta del Diablo),Waterfall,https://www.google.com/maps/search/?api=1&query=Iguazu+Falls+Garganta+del+Diablo%2C+Puerto+Iguazu%2C+Argentina
+Americas,Bolivia,Uyuni,Salar de Uyuni,Salt Flat,https://www.google.com/maps/search/?api=1&query=Salar+de+Uyuni%2C+Uyuni%2C+Bolivia
+Americas,Chile,Rapa Nui,Easter Island Moai,Archaeological Site,https://www.google.com/maps/search/?api=1&query=Easter+Island+Moai%2C+Rapa+Nui%2C+Chile
+Americas,Panama,Panama City,Panama Canal (Miraflores Locks),Engineering,https://www.google.com/maps/search/?api=1&query=Panama+Canal+Miraflores+Locks%2C+Panama+City%2C+Panama
+Americas,Colombia,Cartagena,Cartagena Walled City,Historic Town,https://www.google.com/maps/search/?api=1&query=Cartagena+Walled+City%2C+Cartagena%2C+Colombia
+Africa,Egypt,Giza,Pyramids of Giza,Ancient Pyramids,https://www.google.com/maps/search/?api=1&query=Pyramids+of+Giza%2C+Giza%2C+Egypt
+Africa,Egypt,Giza,Great Sphinx,Sphinx/Monument,https://www.google.com/maps/search/?api=1&query=Great+Sphinx%2C+Giza%2C+Egypt
+Africa,Egypt,Abu Simbel,Abu Simbel Temples,Ancient Temples,https://www.google.com/maps/search/?api=1&query=Abu+Simbel+Temples%2C+Abu+Simbel%2C+Egypt
+Africa,Egypt,Luxor,Karnak Temple,Temple Complex,https://www.google.com/maps/search/?api=1&query=Karnak+Temple%2C+Luxor%2C+Egypt
+Africa,Ethiopia,Lalibela,Rock-Hewn Churches of Lalibela,Churches,https://www.google.com/maps/search/?api=1&query=Rock-Hewn+Churches+of+Lalibela%2C+Lalibela%2C+Ethiopia
+Africa,Ethiopia,Gondar,Fasil Ghebbi,Fortress/Palace,https://www.google.com/maps/search/?api=1&query=Fasil+Ghebbi%2C+Gondar%2C+Ethiopia
+Africa,Mali,Djenne,Great Mosque of Djenne,Mud Mosque,https://www.google.com/maps/search/?api=1&query=Great+Mosque+of+Djenne%2C+Djenne%2C+Mali
+Africa,Tanzania,Zanzibar City,Stone Town,Historic Town,https://www.google.com/maps/search/?api=1&query=Stone+Town%2C+Zanzibar+City%2C+Tanzania
+Africa,Zimbabwe,Victoria Falls,Victoria Falls (Zimbabwe side),Waterfall,https://www.google.com/maps/search/?api=1&query=Victoria+Falls%2C+Zimbabwe
+Africa,South Africa,Cape Town,Table Mountain,Mountain/Scenic,https://www.google.com/maps/search/?api=1&query=Table+Mountain%2C+Cape+Town%2C+South+Africa
+Oceania,Australia,Sydney,Sydney Opera House,Performing Arts Center,https://www.google.com/maps/search/?api=1&query=Sydney+Opera+House%2C+Sydney%2C+Australia
+Oceania,Australia,Sydney,Sydney Harbour Bridge,Bridge,https://www.google.com/maps/search/?api=1&query=Sydney+Harbour+Bridge%2C+Sydney%2C+Australia
+Oceania,Australia,Uluru-Kata Tjuta,Uluru (Ayers Rock),Sacred Rock,https://www.google.com/maps/search/?api=1&query=Uluru+Ayers+Rock%2C+Uluru-Kata+Tjuta%2C+Australia
+Oceania,New Zealand,Fiordland,Milford Sound,Fiord,https://www.google.com/maps/search/?api=1&query=Milford+Sound%2C+Fiordland%2C+New+Zealand
+Oceania,New Zealand,Otago,Moeraki Boulders,Natural Rocks,https://www.google.com/maps/search/?api=1&query=Moeraki+Boulders%2C+Otago%2C+New+Zealand
